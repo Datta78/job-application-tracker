@@ -1,0 +1,18 @@
+# Job Application Tracker
+
+A practical tool to track job applications, status, and statistics.
+
+## ✨ Features
+- Add new job applications
+- Track status (Applied, Interview, Rejected, Offer)
+- View all applications
+- Export to CSV
+- Data saved in JSON
+
+## 🛠️ Tech Stack
+- Python 3
+- JSON & CSV handling
+
+## 🚀 How to Run
+```bash
+python main.py
